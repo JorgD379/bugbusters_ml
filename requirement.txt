@@ -1,4 +1,4 @@
-
+FuzzyTM>=0.4.0
 pandas==2.0.3
 numpy==1.24.3
 PyQt5==5.15.9
