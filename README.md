@@ -12,6 +12,7 @@
 1) Иметь Python версии 3.0 и выше на компьютере
 2) Скачать и установить версию ffmpeg для используемой операционной системы (https://ffmpeg.org/download.html)
    - Инструкция по установке для Windows https://blog.pruffme.com/instrukciya-po-ustanovke-i-rabote-s-programmoj-ffmpeg-na-windows/
+   - Инструкция по установке для Linux  https://losst.pro/ustanovka-ffmpeg-v-ubuntu-20-04
 2) Скачать проект с гугл диска (https://drive.google.com/drive/folders/1MmLrUzOXkdfOsseT02U4jrrkCEI_oqTM?usp=sharing)
 3) Установить библиотеки из списка в файле "requirements.txt" с помощью pip
 4) Запустить main.py
